@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\First\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E55346BB-4A30-4B3F-83E5-A76F84440896}|First\\First.csproj|c:\\users\\user\\source\\repos\\first\\first\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E55346BB-4A30-4B3F-83E5-A76F84440896}|First\\First.csproj|solutionrelative:first\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55346BB-4A30-4B3F-83E5-A76F84440896}|First\\First.csproj|c:\\users\\user\\source\\repos\\first\\first\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55346BB-4A30-4B3F-83E5-A76F84440896}|First\\First.csproj|solutionrelative:first\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55346BB-4A30-4B3F-83E5-A76F84440896}|First\\First.csproj|c:\\users\\user\\source\\repos\\first\\first\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55346BB-4A30-4B3F-83E5-A76F84440896}|First\\First.csproj|solutionrelative:first\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55346BB-4A30-4B3F-83E5-A76F84440896}|First\\First.csproj|c:\\users\\user\\source\\repos\\first\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55346BB-4A30-4B3F-83E5-A76F84440896}|First\\First.csproj|solutionrelative:first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\First\\First\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "First\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\First\\First\\Form1.Designer.cs",
+              "RelativeToolTip": "First\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:58:24.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\First\\First\\Program.cs",
+              "RelativeDocumentMoniker": "First\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\First\\First\\Program.cs",
+              "RelativeToolTip": "First\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:52:39.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\First\\First\\Form1.cs",
+              "RelativeDocumentMoniker": "First\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\First\\First\\Form1.cs",
+              "RelativeToolTip": "First\\Form1.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:52:04.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\First\\First\\Form1.cs",
+              "RelativeDocumentMoniker": "First\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\First\\First\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "First\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:39:50.61Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
